@@ -1,8 +1,8 @@
 #!/bin/bash
 
 function anonhelp() {
-  echo "upload:upload a file to anonfiles syntax: upload filename.txt"
-  echo "info: get info about a file uploaded on anonfiles syntax: info fileid"
+  echo "anonupload:upload a file to anonfiles syntax: upload filename.txt"
+  echo "anoninfo: get info about a file uploaded on anonfiles syntax: info fileid"
 }
 
 function anonupload() {
