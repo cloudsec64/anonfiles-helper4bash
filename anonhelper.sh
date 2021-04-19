@@ -10,6 +10,6 @@ function anonupload() {
 }
 
 
-function anonupload() {
+function anoninfo() {
   curl https://api.anonfiles.com/v2/file/$1/info
 }
